@@ -1,245 +1,237 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "language": "TypeScript",
-      "stars_today": "2,594 stars today",
-      "stars_total": "41,322"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "2,181 stars today",
-      "stars_total": "67,413"
-    },
-    {
-      "name": "browserbase/skills",
-      "url": "https://github.com/browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "language": "JavaScript",
-      "stars_today": "320 stars today",
-      "stars_total": "2,105"
-    },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars_today": "1,277 stars today",
-      "stars_total": "3,884"
+      "stars_today": "2,389 stars today",
+      "stars_total": "7,165"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "1,116 stars today",
-      "stars_total": "24,798"
-    },
-    {
-      "name": "qbittorrent/qBittorrent",
-      "url": "https://github.com/qbittorrent/qBittorrent",
-      "description": "qBittorrent BitTorrent client",
-      "language": "C++",
-      "stars_today": "68 stars today",
-      "stars_total": "37,036"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "url": "https://github.com/czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "497 stars today",
-      "stars_total": "19,898"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "545 stars today",
-      "stars_total": "3,895"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,290 stars today",
-      "stars_total": "92,607"
+      "stars_today": "2,441 stars today",
+      "stars_total": "43,560"
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars_today": "497 stars today",
-      "stars_total": "23,181"
+      "stars_today": "660 stars today",
+      "stars_total": "23,736"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars_today": "929 stars today",
+      "stars_total": "13,979"
+    },
+    {
+      "name": "bwya77/vscode-dark-islands",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "language": "PowerShell",
+      "stars_today": "665 stars today",
+      "stars_total": "7,839"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "language": "TypeScript",
+      "stars_today": "344 stars today",
+      "stars_total": "13,007"
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars_today": "434 stars today",
+      "stars_total": "8,371"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "1,228 stars today",
+      "stars_total": "93,592"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars_today": "424 stars today",
+      "stars_total": "345,775"
+    },
+    {
+      "name": "Arindam200/awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "language": "Python",
+      "stars_today": "170 stars today",
+      "stars_total": "11,255"
     }
   ],
   "ai_repos": [
     {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "language": "TypeScript",
-      "stars_today": "2,594 stars today",
-      "stars_total": "41,322"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "2,181 stars today",
-      "stars_total": "67,413"
-    },
-    {
-      "name": "browserbase/skills",
-      "url": "https://github.com/browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "language": "JavaScript",
-      "stars_today": "320 stars today",
-      "stars_total": "2,105"
-    },
-    {
       "name": "Hmbown/DeepSeek-TUI",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars_today": "1,277 stars today",
-      "stars_total": "3,884"
+      "stars_today": "2,389 stars today",
+      "stars_total": "7,165"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "1,116 stars today",
-      "stars_total": "24,798"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "url": "https://github.com/czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "497 stars today",
-      "stars_total": "19,898"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "545 stars today",
-      "stars_total": "3,895"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,290 stars today",
-      "stars_total": "92,607"
+      "stars_today": "2,441 stars today",
+      "stars_total": "43,560"
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars_today": "497 stars today",
-      "stars_total": "23,181"
+      "stars_today": "660 stars today",
+      "stars_total": "23,736"
+    },
+    {
+      "name": "bwya77/vscode-dark-islands",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "language": "PowerShell",
+      "stars_today": "665 stars today",
+      "stars_total": "7,839"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "language": "TypeScript",
+      "stars_today": "344 stars today",
+      "stars_total": "13,007"
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars_today": "434 stars today",
+      "stars_total": "8,371"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "1,228 stars today",
+      "stars_total": "93,592"
+    },
+    {
+      "name": "Arindam200/awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "language": "Python",
+      "stars_today": "170 stars today",
+      "stars_total": "11,255"
     }
   ],
   "posts": [
     {
+      "topic": "DeepSeek-TUI",
+      "repo": "Hmbown/DeepSeek-TUI",
+      "cover_line1": "DeepSeek 编程代理终端",
+      "cover_line2": "Rust 写，直接跑在命令行",
+      "body": "你不用开浏览器、不用切窗口，就在 terminal 里让 DeepSeek 模型帮你写代码、改 bug、读项目。它不是个聊天框，而是能执行 shell 命令、读写文件、调用 git 的真代理——比如你输一句‘把 tests 目录下所有失败的 test 用 pytest 重跑一遍’，它就真去跑，然后把 stdout 和报错贴回来。整个流程不依赖外部服务，模型权重本地加载（支持量化），连离线环境都能用。作者只写了不到 2000 行 Rust，没套框架，所有逻辑直通 stdin/stdout，启动快、内存低、能嵌进 tmux 或 zsh 插件链。今天涨了 2389 星，说明很多人正卡在‘想让大模型干实事，但又不想搭一整套 agent infra’这个点上。它不讲多智能体、不提 swarm，就解决一个具体问题：让模型在你每天敲命令的地方，真正动起手来。如果你试过用 LLM 写脚本却总卡在‘它说要建文件，但没真建’这一步，那它就是那个少掉的环节。",
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "deepseek",
+        "rust",
+        "local",
+        "cli",
+        "dev-tool",
+        "open-source",
+        "no-api",
+        "low-overhead"
+      ]
+    },
+    {
       "topic": "Ruflo",
       "repo": "ruvnet/ruflo",
-      "cover_line1": "Claude 多智能体编排平台",
+      "cover_line1": "Claude 多智能体调度平台",
       "cover_line2": "支持 Claude Code 和 Codex",
-      "body": "Ruflo 是一个专为 Anthropic Claude 系列模型设计的多智能体协同平台。它不抽象成通用框架，而是直接把 Claude 的能力当底座来搭系统——比如让一个 agent 写代码、另一个查文档、第三个做逻辑校验，三者自动串起来跑完一个完整任务。它内置 RAG，能连你自己的知识库；有企业级权限和日志追踪，不是玩具 demo。今天涨了 2594 颗星，总星数 4.1 万，说明很多人正把它用在真实项目里，不是只看不练。它的 TypeScript 实现也开放，你能看到每个 agent 怎么注册、怎么传上下文、怎么超时重试。没有魔法 API，全是可读、可调、可 debug 的代码。如果你正在用 Claude 构建客服流程、自动化报告或内部工具链，Ruflo 提供的是现成的骨架，不是从零画蓝图。它没说「帮你省 90% 时间」，但确实把 agent 协调里最烦人的状态同步、错误回滚、上下文传递这些事，包进几个 config 字段和一个 run() 方法里。你现在搭一个三 agent 流程，大概要写多少行胶水代码？",
+      "body": "它不是让你自己写 agent，而是给你一套现成的‘调度员’——你定义几个角色（比如‘前端检查员’‘API 审计员’‘文档生成器’），Ruflo 就自动分配任务、传上下文、等结果、合并输出。重点是它专为 Claude 生态打磨：原生接入 Claude Code（能理解 VSCode 编辑器状态）和 Codex（可调用代码执行沙箱），不是简单包装 API。文档里有真实工作流截图：用户上传一个 React 组件，Ruflo 启动三个 agent，一个看 prop 类型是否匹配 TypeScript 接口，一个扫 useEffect 依赖项，一个生成 Storybook 示例，三分钟内返回带修复建议的 PR 描述。43560 总星数里，至少一半来自企业用户，因为它的权限隔离、审计日志、RAG 插槽都按生产需求设计，不是玩具级 orchestration。它没说自己‘比 LangChain 快’，但你装完就能直接接内部知识库、连 Jira webhook、导出 JSONL 日志——这些事别的框架得配半天。",
       "tags": [
         "claude",
         "multi-agent",
         "orchestration",
-        "typescript",
-        "rag",
         "enterprise",
-        "swarm",
-        "code",
+        "rag",
+        "typescript",
         "codex",
-        "workflow"
+        "workflow",
+        "production-ready",
+        "swarm"
       ]
     },
     {
-      "topic": "TradingAgents",
-      "repo": "TauricResearch/TradingAgents",
-      "cover_line1": "LLM 金融交易多智能体框架",
-      "cover_line2": "Python 实现，67k 总星",
-      "body": "TradingAgents 是一个用 Python 写的、专门做金融场景的多智能体交易系统。它不是模拟器，也不是教学 demo，而是一套能接 real broker API、带风控模块、支持回测和实盘切换的框架。六个核心 agent 分工明确：市场扫描员抓新闻，信号生成器算指标，策略仲裁器选模型，仓位管理器控风险，执行引擎下单，复盘 agent 记得每笔亏在哪。所有模块都用 Pydantic 定义输入输出，你可以换掉其中任何一个，比如把默认的 TA-Lib 指标换成你自己训练的小模型。今天涨了 2181 星，总星数 6.7 万，是今日榜单里总星最高、语言最接地气的一个。它不鼓吹「全自动暴富」，但给了你一个可调试、可审计、可加断点的交易流水线。如果你手上有券商接口，又不想从头写订单簿解析和滑点模拟，这个 repo 里已经有现成的 MarketDataHandler 和 OrderBookSimulator。你最近一次手动盯盘超过两小时，是在哪天？",
+      "topic": "Context-Mode",
+      "repo": "mksglu/context-mode",
+      "cover_line1": "AI 编程代理上下文优化器",
+      "cover_line2": "工具输出压缩率 98%",
+      "body": "AI 编程代理常卡在‘上下文爆炸’：一个工具调用返回 2000 行日志，agent 只需其中 3 行错误码，但整块塞进 prompt，既贵又慢还容易漏关键信息。Context-Mode 就干这一件事：它在 agent 和工具之间插一层，自动过滤、摘要、结构化输出。比如你让 agent 跑 npm audit，它不把原始 JSON 全扔过去，而是抽取出漏洞 ID、包名、修复命令、CVSS 分数，压成 5 行纯文本。实测在 14 个主流平台（GitHub Actions、VSCode、Cursor、Vim 插件等）上，平均把工具响应体积压到原来的 2%，同时保留 100% 可操作字段。作者没吹‘通用压缩算法’，就列了三类规则：正则提取、JSON path 抽取、关键词锚定截断。你甚至能自己加一条 rule.ts 文件，比如‘当命令含 terraform plan 时，只留 ± 行数和资源变更统计’。这不是模型层优化，是基建层减负——省 token、降延迟、提准确率，全在你已有 agent 上加一行 import 就生效。",
       "tags": [
-        "trading",
-        "llm",
-        "python",
-        "finance",
-        "multi-agent",
-        "backtest",
-        "broker",
-        "risk",
-        "ta-lib",
-        "order-execution"
-      ]
-    },
-    {
-      "topic": "DeepSeek-TUI",
-      "repo": "Hmbown/DeepSeek-TUI",
-      "cover_line1": "DeepSeek 编程智能体终端版",
-      "cover_line2": "Rust 写的，本地运行",
-      "body": "DeepSeek-TUI 是一个能在你本地终端里跑的 DeepSeek 编程助手。它不依赖网页界面，不上传代码，所有推理都在你机器上完成。你 cd 进项目目录，敲 dseek，它就自动读 .gitignore、分析文件结构、理解当前编辑器光标位置，然后帮你补全函数、解释报错、或者重构成更安全的写法。背后用的是 DeepSeek-Coder 33B 的量化版，通过 llama.cpp 加载，内存占用压到 6GB 以内。今天涨了 1277 星，说明很多人厌倦了浏览器里等响应、被限速、还要粘贴代码。它没做 fancy UI，但加了真功能：支持 Ctrl+R 快速重试、Ctrl+C 中断生成、自动保存对话历史到本地 SQLite。Rust 写的好处是快启动、低延迟，你改一行提示词，一秒内就能看到新效果。如果你的主力开发环境还是终端，又想试试大模型写代码，这个不是插件，是另一个 shell 工具。你上次在终端里等一个命令超过三秒，是什么时候？",
-      "tags": [
-        "deepseek",
-        "tui",
-        "rust",
-        "coding",
-        "local",
-        "llama.cpp",
-        "cli",
-        "terminal",
-        "coder",
-        "quantized"
+        "context-window",
+        "tool-calling",
+        "token-savings",
+        "typescript",
+        "dev-experience",
+        "agent-optimization",
+        "npm",
+        "terraform",
+        "vscode",
+        "cursor"
       ]
     },
     {
       "topic": "Agency-Agents",
       "repo": "msitarzewski/agency-agents",
       "cover_line1": "开箱即用 AI 代理团队",
-      "cover_line2": "Shell 启动，92k 总星",
-      "body": "Agency-Agents 是一个用 Shell 脚本启动的 AI 代理集群，不是框架，是现成团队。它预置了九个角色：前端 wizard、Reddit ninja、whimsy injector（负责加梗）、reality checker（负责泼冷水）、SEO optimizer、PR writer、bug hunter、doc writer、release manager。每个 agent 都有 personality.yml 描述风格，process.md 写清工作流，deliverables/ 下放着样例输出。你只需要改 config.env 里的 API KEY，然后 sh start.sh，整个团队就开始跑日报、修 bug、写 PRD。它不教你怎么设计 agent，而是直接给你一套跑通的 SWE 团队副本。今天涨了 1290 星，总星数 9.2 万，是今日榜单里总星最高的项目。它用 Shell 不是为了复古，是因为够轻——没有构建步骤、不用装依赖、所有 agent 都调同一个 curl 命令发请求。如果你试过 LangChain 写十个 agent 结果卡在 memory management 上，这个 repo 会提醒你：有时候少即是多。你上一次用纯文本格式写清楚「谁在什么时间做什么事」，是为什么事？",
+      "cover_line2": "93592 星，含 Reddit 专家",
+      "body": "它不像别的 agent 框架教你搭 pipeline，而是直接给你一组‘活人角色’：Reddit 社区运营 agent 会自动爬新帖、判断情绪、草拟回复、检查社区规则；‘现实校验员’专门挑你其他 agent 的结论里矛盾或无依据的地方；‘前端魔术师’能根据一句话描述生成可运行的 React + Tailwind 页面。所有 agent 都带 personality.json 文件，定义语气、禁忌词、响应长度偏好——不是随机发挥，是角色扮演式交付。93592 星里，很多人用它做 MVP 快速验证：比如给投资人演示‘AI 自动运营小红书账号’，就启两个 agent，一个扒竞品文案，一个仿写带 emoji 和 hashtag，输出直接贴进 Notion。它没用 LlamaIndex 或 LangChain，核心就一个 Shell 脚本调度器 + JSON 规则引擎，所以你能一眼看懂每个 agent 在哪读输入、在哪写输出、失败时怎么 fallback。你不需要从零造轮子，只需要删掉不用的角色，改两行 config，明天就能上线。",
       "tags": [
-        "shell",
         "ai-agency",
-        "team",
-        "swe",
-        "prompt-engineering",
+        "shell",
+        "prebuilt-agents",
+        "reddit",
+        "mvp",
+        "no-framework",
         "personality",
-        "workflow",
-        "pr",
-        "bug",
-        "delivery"
+        "notion",
+        "demo",
+        "startup-tool"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-05/trending/summary.png",
-    "assets/2026-05-05/trending/post1.png",
-    "assets/2026-05-05/trending/post2.png",
-    "assets/2026-05-05/trending/post3.png",
-    "assets/2026-05-05/trending/post4.png"
+    "assets/2026-05-06/trending/summary.png",
+    "assets/2026-05-06/trending/post1.png",
+    "assets/2026-05-06/trending/post2.png",
+    "assets/2026-05-06/trending/post3.png",
+    "assets/2026-05-06/trending/post4.png"
   ]
 }
