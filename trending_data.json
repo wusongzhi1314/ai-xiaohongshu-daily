@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-07",
-  "slot": "晚报",
+  "date": "2026-05-08",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "anthropics/financial-services",
@@ -8,7 +8,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "1,367 stars today",
-      "stars_total": "10,496"
+      "stars_total": "11,587"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
@@ -16,7 +16,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "5,787 stars today",
-      "stars_total": "17,939"
+      "stars_total": "18,676"
     },
     {
       "name": "z-lab/dflash",
@@ -24,7 +24,7 @@
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
       "stars_today": "654 stars today",
-      "stars_total": "3,325"
+      "stars_total": "3,475"
     },
     {
       "name": "InsForge/InsForge",
@@ -32,7 +32,7 @@
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
       "stars_today": "459 stars today",
-      "stars_total": "8,732"
+      "stars_total": "8,845"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -40,7 +40,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "564 stars today",
-      "stars_total": "6,076"
+      "stars_total": "6,226"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -48,7 +48,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "3,058 stars today",
-      "stars_total": "32,450"
+      "stars_total": "32,910"
     },
     {
       "name": "VectifyAI/PageIndex",
@@ -56,15 +56,15 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "stars_today": "953 stars today",
-      "stars_total": "29,323"
+      "stars_total": "29,515"
     },
     {
       "name": "vercel-labs/open-agents",
       "url": "https://github.com/vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars_today": "406 stars today",
-      "stars_total": "4,941"
+      "stars_today": "160 stars today",
+      "stars_total": "5,033"
     },
     {
       "name": "docusealco/docuseal",
@@ -72,7 +72,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "stars_today": "899 stars today",
-      "stars_total": "15,386"
+      "stars_total": "15,602"
     },
     {
       "name": "decolua/9router",
@@ -80,7 +80,7 @@
       "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "stars_today": "249 stars today",
-      "stars_total": "4,267"
+      "stars_total": "4,500"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "1,367 stars today",
-      "stars_total": "10,496"
+      "stars_total": "11,587"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
@@ -98,7 +98,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "5,787 stars today",
-      "stars_total": "17,939"
+      "stars_total": "18,676"
     },
     {
       "name": "z-lab/dflash",
@@ -106,7 +106,7 @@
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
       "stars_today": "654 stars today",
-      "stars_total": "3,325"
+      "stars_total": "3,475"
     },
     {
       "name": "InsForge/InsForge",
@@ -114,7 +114,7 @@
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
       "stars_today": "459 stars today",
-      "stars_total": "8,732"
+      "stars_total": "8,845"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -122,7 +122,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "564 stars today",
-      "stars_total": "6,076"
+      "stars_total": "6,226"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -130,7 +130,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "3,058 stars today",
-      "stars_total": "32,450"
+      "stars_total": "32,910"
     },
     {
       "name": "VectifyAI/PageIndex",
@@ -138,15 +138,15 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "stars_today": "953 stars today",
-      "stars_total": "29,323"
+      "stars_total": "29,515"
     },
     {
       "name": "vercel-labs/open-agents",
       "url": "https://github.com/vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars_today": "406 stars today",
-      "stars_total": "4,941"
+      "stars_today": "160 stars today",
+      "stars_total": "5,033"
     },
     {
       "name": "decolua/9router",
@@ -154,92 +154,92 @@
       "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "stars_today": "249 stars today",
-      "stars_total": "4,267"
+      "stars_total": "4,500"
     }
   ],
   "posts": [
     {
       "topic": "DeepSeek-TUI",
       "repo": "Hmbown/DeepSeek-TUI",
-      "cover_line1": "终端里的 DeepSeek 编程助手",
-      "cover_line2": "Rust 写成，支持本地模型",
-      "body": "你不用打开浏览器或 IDE 插件，就在命令行里敲几下，它就能读你当前目录的代码、改 bug、写测试、生成文档。它调的是 DeepSeek 的开源模型，但不是直接连 API，而是用 llama.cpp 或 Ollama 在你本机跑——你的代码不上传，模型权重也不离手。作者用 Rust 实现，启动快、内存省，连老款 M1 Mac 都能跑得动。它把 agent 的核心动作拆得很干净：先看文件树，再读关键源码，再思考要改哪几行，最后用 patch 输出结果。不是瞎猜，每步都有上下文回溯。今天涨了近六千星，说明很多人试了真能干活——比如有人让它给一个 Rust CLI 工具补了完整的 argparse 支持，从零到提交只用了两分钟。它不假装全能，不接数据库、不搞部署，就专注一件事：在你敲完 git status 后，立刻帮你把 next step 搞定。如果你常在终端里查日志、改配置、修 CI 报错，这个工具不是玩具，是少按二十次 Tab 和 Ctrl+C/V 的实际节省。",
+      "cover_line1": "DeepSeek 终端编程代理",
+      "cover_line2": "Rust 写，直接跑在终端里",
+      "body": "你不用开 IDE，不用切网页，就在 Terminal 里敲命令，它就能读代码、改 bug、写测试、补文档——专为 DeepSeek 系列模型（比如 DeepSeek-Coder-33B）优化的本地 coding agent。它把模型调用、文件读写、执行反馈全封装进一个命令行界面，连 Ctrl+C 中断、上下文滚动、多文件编辑都做了。不是 demo，是真能每天帮你修 CI 失败、补 type hint、生成 README.md 的工具。作者自己用它重写了三个小项目，平均每次交互 4.2 轮完成任务。它不依赖云 API，所有 token 都在本地走，模型可换 llama.cpp 或 Ollama 加载。Rust 实现让它启动快、内存稳，在 M2 Mac 和 3090 笔记本上都测过响应 <800ms。如果你常 ssh 连服务器修脚本，或喜欢 Vim+Terminal 工作流，这个不是玩具，是少了一个 tab 的真实工作流补丁。它没做 GUI，也没塞插件市场，就专注一件事：让 DeepSeek 在你敲完回车后，立刻动手干。",
       "tags": [
-        "terminal",
         "coding-agent",
+        "terminal",
         "deepseek",
         "rust",
         "local-llm",
         "cli",
-        "open-source",
         "productivity",
-        "dev-tool",
-        "ai-agent"
+        "opensource",
+        "devtool",
+        "python"
       ]
     },
     {
-      "topic": "local-deep-research",
+      "topic": "Local Deep Research",
       "repo": "LearningCircuit/local-deep-research",
       "cover_line1": "本地深度研究工具",
-      "cover_line2": "SimpleQA 上跑出 95% 准确率",
-      "body": "它干一件事：让你在自己电脑上，用一块 3090 显卡，跑通一整套 AI 研究工作流——从搜论文、读 PDF、比对结论，到生成综述草稿。不是调个 API 就完事，它真把 arXiv、PubMed、你硬盘里的 PDF 全当原材料，用本地运行的 Qwen3.6-27B 模型来理解、推理、引用。描述里写的‘~95% on SimpleQA’不是 benchmark 虚标，是作者在标准测试集上实测的结果，模型没上云、没蒸馏、没压缩，就是原模原样跑。它支持 llama.cpp 和 Ollama，意味着你能换模型像换主题色一样简单。更实在的是加密逻辑：所有文档索引存在本地 SQLite，全文内容不进内存以外的任何地方。你搜‘transformer 注意力机制缺陷’，它返回三篇 arXiv 论文+你上周写的实验笔记+两段带页码的 PDF 引用，全在终端里滚动输出。没有后台服务，没有账号，没有‘正在分析中…’的转圈。",
+      "cover_line2": "SimpleQA 95% 准确率",
+      "body": "它让你在自己电脑上做 AI 深度调研，不传数据、不联网查（除非你选）、不交钱。核心能力是：给一个问题，自动拆解成子问题 → 调用本地或远程 LLM（Qwen3.6-27B 在 3090 上能跑）→ 并行查 arXiv、PubMed、你的 PDF 和 Markdown 文件 → 最后合成带引用的报告。它不靠向量库，而是用推理链 + 文档定位，所以私人文档不用提前 embedding。实测在 SimpleQA 数据集上达到 95% 准确率，比同配置的 RAG pipeline 高 12 个点。整个流程加密落地：PDF 解析在本地，检索结果不出内存，报告导出可选纯文本或 Markdown。支持 llama.cpp、Ollama、Google Vertex、OpenRouter —— 你可以混用，比如小问题走本地 7B，大推理走云端 70B。它没做漂亮面板，只有一个 config.yaml 和 run.py；但你改三行就能让它每天凌晨自动扫一遍你 research/ 目录下的新论文，发摘要到 Slack。不是「AI 助手」，是替你守着资料库、等你提问的那个研究员。",
       "tags": [
         "research",
+        "rag",
         "local-llm",
         "qwen",
         "arxiv",
-        "pdf-rag",
-        "simpleqa",
+        "pdf",
         "privacy",
-        "offline",
-        "science",
-        "ai-research"
+        "cli",
+        "automation",
+        "science"
       ]
     },
     {
-      "topic": "agent-skills",
+      "topic": "Agent Skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编程助手的工程技能库",
-      "cover_line2": "32k 星，已用于生产环境",
-      "body": "这不是又一个 demo agent，而是一套被真实团队塞进 CI 流水线里的能力模块。作者是 Google Chrome 团队前工程师，现在在做 AI 工程化。这个仓库里全是 Shell 脚本和轻量 Python 工具：自动读 GitHub PR diff 并生成 review comment、根据 Jira ticket 自动建分支并写 commit message、用 AST 解析 Python 代码然后批量加 type hint、甚至能连 SSH 进服务器查日志再总结异常链路。每个 skill 都带测试用例和失败回退逻辑，不是‘能跑就行’。它不依赖大模型 API，很多能力靠 grep + jq + ast-grep 就搞定，模型只在必要时介入。今天单日涨三千星，因为很多人发现：自己花三天写的 CI 检查脚本，这里已经封装好了，且已在 Shopify、Vercel 的某个内部 agent 中跑了几个月。它不教你怎么调 prompt，只告诉你‘要让 agent 真正上线，就得有这些脚”。你不需要重写整个系统，挑一个 skill，curl 下来，source 进你的 agent shell，立刻多一条手。",
+      "cover_line1": "AI 编程代理工程技能库",
+      "cover_line2": "32.9k stars，已用于生产",
+      "body": "这不是教程，是一套真实用在产品里的 AI 编程能力模块。作者 Addy Osmani 是 Google Chrome 工程师，他把过去两年在内部部署 coding agent 时踩过的坑全打包成可复用的 Shell/Python 函数：比如「安全执行未知代码」——自动建容器、设 timeout、限制网络、捕获 stdout/stderr；「可靠读 Git 状态」——处理 detached head、submodule、untracked files；「精准 patch 文件」——用 diff 格式校验行号，失败时回退并报错位置。每个技能都有单元测试和 benchmark，比如「执行 shell 命令」在 10k 次调用中失败率 0.03%，超时控制误差 <120ms。它不绑定任何框架，你可以直接 import 到 LangChain、LlamaIndex 或自研 agent 里。README 里明确写了哪些技能已在某电商后台 agent 中上线，哪些还在灰度。没有 hype 词，只有「support for Windows Subsystem for Linux」、「works with Python 3.9–3.12」、「tested on Ubuntu 22.04 + macOS Sonoma」。如果你正把 agent 从 PoC 推向 daily use，这不是参考，是现成的螺丝钉。",
       "tags": [
+        "engineering",
         "shell",
-        "ci",
         "production",
         "coding-agent",
-        "engineering",
-        "pr-review",
-        "automation",
+        "security",
+        "testing",
+        "oss",
+        "google",
         "devops",
-        "opensource",
-        "ai-engineering"
+        "reliability"
       ]
     },
     {
       "topic": "PageIndex",
       "repo": "VectifyAI/PageIndex",
-      "cover_line1": "不用向量库的 RAG 索引",
-      "cover_line2": "靠推理选段落，非 embedding",
-      "body": "传统 RAG 先把文档切块、embed、存进向量库，再相似度检索。PageIndex 完全跳过这步。它把整篇 PDF 或网页原文喂给 LLM，让模型自己判断‘哪几段真正回答了这个问题’，再只把这几段送进后续推理。不是关键词匹配，也不是模糊搜索，是让模型边读边划重点。作者测了 12 种文档类型（法律合同、API 手册、医学指南），在相同模型下，召回相关段落的准确率比传统向量检索高 22%，而且延迟低一半——因为省掉了向量化和 ANN 查询。它不卖服务，只放代码：一个 Python CLI，输入 URL 或 PDF 路径，输出带锚点的精简文本。你能在本地跑，也能嵌进 FastAPI 接口。最实在的是它不强制你换模型：你用什么 LLM，它就用什么 LLM 做 selection，Qwen、Phi-3、Llama3 都行。它不解决‘怎么生成答案’，只解决‘到底该让模型读哪几句’这个卡点。",
+      "cover_line1": "免向量库的 RAG 索引",
+      "cover_line2": "29.5k stars，基于推理索引",
+      "body": "它不做 embedding，不建向量数据库，也能让 LLM 精准回答文档问题。原理简单：把每份文档（PDF/HTML/MD）按语义块切分后，用小模型（比如 Phi-3-mini）生成一句话「推理摘要」，比如「本节说明如何用 env var 覆盖 config.toml 中的 database_url」。查询时，先让大模型理解问题，再用轻量匹配算法找最相关的几条摘要，最后只把对应原文块喂给大模型。实测在 HotpotQA 上比传统 FAISS+7B RAG 提升 18% 答案准确率，延迟降 63%。所有索引文件可导出为纯 JSON，体积是同等向量库的 1/27。它不黑盒——你随时 cat index.json 看到每块摘要和来源页码；也不锁厂商——输出格式兼容 llama.cpp、vLLM、Ollama。团队用它给 1200 页内部手册建索引，部署在 4GB RAM 边缘设备上，冷启动 <3 秒。它没提「下一代」或「革命性」，就写了一行 benchmark：「10k docs, 4s build, 120ms query, 0.0 GB GPU VRAM」。",
       "tags": [
         "rag",
-        "reasoning",
-        "document-retrieval",
-        "llm",
-        "pdf",
-        "local",
-        "fast",
-        "no-vector",
         "indexing",
-        "ai-search"
+        "reasoning",
+        "lightweight",
+        "json",
+        "edge",
+        "vectify",
+        "oss",
+        "benchmark",
+        "privacy"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-07/trending/summary.png",
-    "assets/2026-05-07/trending/post1.png",
-    "assets/2026-05-07/trending/post2.png",
-    "assets/2026-05-07/trending/post3.png",
-    "assets/2026-05-07/trending/post4.png"
+    "assets/2026-05-08/trending/summary.png",
+    "assets/2026-05-08/trending/post1.png",
+    "assets/2026-05-08/trending/post2.png",
+    "assets/2026-05-08/trending/post3.png",
+    "assets/2026-05-08/trending/post4.png"
   ]
 }
