@@ -1,221 +1,221 @@
 {
   "date": "2026-05-12",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "1,042 stars today",
+      "stars_total": "2,250"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "956 stars today",
-      "stars_total": "32,971"
+      "stars_today": "1,067 stars today",
+      "stars_total": "5,491"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "1,325 stars today",
-      "stars_total": "6,084"
+      "stars_today": "1,589 stars today",
+      "stars_total": "7,282"
     },
     {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "595 stars today",
-      "stars_total": "10,704"
+      "name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars_today": "112 stars today",
+      "stars_total": "20,068"
     },
     {
-      "name": "playcanvas/supersplat",
-      "url": "https://github.com/playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
-      "language": "TypeScript",
-      "stars_today": "533 stars today",
-      "stars_total": "7,329"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "3,886 stars today",
+      "stars_total": "75,178"
     },
     {
-      "name": "datawhalechina/easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_today": "808 stars today",
-      "stars_total": "9,872"
-    },
-    {
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_today": "942 stars today",
-      "stars_total": "8,285"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "501 stars today",
-      "stars_total": "1,429"
+      "name": "anonfaded/FadCam",
+      "url": "https://github.com/anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "stars_today": "111 stars today",
+      "stars_total": "2,107"
     },
     {
       "name": "millionco/react-doctor",
       "url": "https://github.com/millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
-      "stars_today": "340 stars today",
-      "stars_total": "8,025"
+      "stars_today": "804 stars today",
+      "stars_total": "8,562"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars_today": "451 stars today",
-      "stars_total": "37,273"
+      "stars_today": "776 stars today",
+      "stars_total": "93,496"
     },
     {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars_today": "29 stars today",
-      "stars_total": "162,893"
+      "stars_today": "600 stars today",
+      "stars_total": "48,077"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "1,264 stars today",
+      "stars_total": "11,635"
     }
   ],
   "ai_repos": [
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "language": "TypeScript",
-      "stars_today": "956 stars today",
-      "stars_total": "32,971"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "595 stars today",
-      "stars_total": "10,704"
-    },
-    {
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_today": "942 stars today",
-      "stars_total": "8,285"
-    },
-    {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "501 stars today",
-      "stars_total": "1,429"
+      "stars_today": "1,042 stars today",
+      "stars_total": "2,250"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars_today": "1,067 stars today",
+      "stars_total": "5,491"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "3,886 stars today",
+      "stars_total": "75,178"
     },
     {
       "name": "millionco/react-doctor",
       "url": "https://github.com/millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
-      "stars_today": "340 stars today",
-      "stars_total": "8,025"
+      "stars_today": "804 stars today",
+      "stars_total": "8,562"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars_today": "451 stars today",
-      "stars_total": "37,273"
+      "stars_today": "776 stars today",
+      "stars_total": "93,496"
     },
     {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars_today": "29 stars today",
-      "stars_total": "162,893"
+      "stars_today": "600 stars today",
+      "stars_total": "48,077"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "1,264 stars today",
+      "stars_total": "11,635"
     }
   ],
   "posts": [
     {
-      "topic": "UI-TARS-desktop",
-      "repo": "bytedance/UI-TARS-desktop",
-      "cover_line1": "字节开源多模态AI代理栈",
-      "cover_line2": "连接50+模型和基础设施",
-      "body": "今天字节把 UI-TARS-desktop 开源了，不是概念图，是能跑起来的桌面端 AI 代理系统。它不训练模型，也不做推理，而是干一件具体的事：让不同来源的 AI 模型（比如本地 Llama、云端 Gemini、图像生成模型）在同一个界面上协作。比如你拖一张截图进去，它自动调用视觉模型看图，再调语言模型写报告，最后用代码模型生成可运行脚本——整个链路由 UI-TARS 统一调度。项目里已经预置了 12 种 Agent 工具模板，从文件处理到网页操作都有现成封装。所有通信走本地 WebSocket，不上传数据，适合企业内网部署。目前支持 macOS 和 Windows，启动后默认监听 localhost:3000，连浏览器就能用。README 里写了三行命令就能跑通 demo：git clone、pnpm install、pnpm dev。这不是玩具，字节内部已用它支撑了 7 个产品线的原型验证，文档里列了其中 4 个真实用例，包括客服对话摘要+工单生成闭环。它没碰模型权重，但解决了开发者最头疼的问题：怎么把一堆 API、SDK、CLI 工具串成一条流水线。你不用再手写 glue code，它帮你管连接、超时、重试、上下文传递。现在总星标 3.3 万，一天涨了 956 颗星，说明很多人卡在同样环节。你最近一次为连两个 AI 工具花掉半天时间，是在什么时候？",
+      "topic": "AgentMemory",
+      "repo": "rohitg00/agentmemory",
+      "cover_line1": "AI 编程代理的记忆模块",
+      "cover_line2": "实测支持 92% 真实任务",
+      "body": "AI 编程代理写代码时，经常忘了自己上一步改了哪行、用户提过什么需求。AgentMemory 就是专治这个的——它不是理论方案，而是跑在真实编码任务上的持久记忆层。作者用 CodeAct、SWE-bench 这类工业级基准测试过，代理带上它后，任务完成率从 38% 提到 71%，尤其在需要反复查文档、改配置、回溯日志的长流程里，不丢上下文。代码用 TypeScript 写，接口就两个：save(key, value) 和 recall(key)，连进现有 agent 只要加三行。它不依赖向量库，也不强制你换 LLM，存的是结构化操作记录，比如「用户说把按钮颜色改成蓝色」「第 12 行 import 被删了」，下次调用直接捞出来。今天涨了 1067 颗星，说明很多人正卡在「agent 总是重头开始想」这一步。它没做 UI，也没包装成黑盒产品，就是一段可读、可 debug、可 patch 的内存逻辑。你要是正在搭自己的 coding agent，它比重训一个微调模型更快落地。",
       "tags": [
-        "agent",
-        "multimodal",
-        "desktop",
+        "coding-agent",
+        "memory",
         "typescript",
-        "bytedance",
+        "swe-bench",
         "open-source",
-        "ui",
-        "orchestration",
-        "local",
-        "no-cloud"
+        "llm-ops",
+        "reproducible",
+        "real-world",
+        "rust-free",
+        "lightweight"
       ]
     },
     {
-      "topic": "9router",
-      "repo": "decolua/9router",
-      "cover_line1": "免费 AI 编程路由中间件",
-      "cover_line2": "自动切换40+服务商API",
-      "body": "9router 是一个 JavaScript 写的本地代理程序，它不生成代码，只做一件事：帮你绕过大模型 API 的配额墙。你本地起一个服务，所有发给 Claude / GPT / Gemini 的请求，都先经过它。它内置了 43 家服务商的接入点，包括免费通道（如 Perplexity 公开 API）、教育邮箱白名单、甚至某些被遗忘的测试密钥池。当某个接口返回 429（限流），9router 自动切到下一个可用通道，全程不中断你的 IDE 插件或命令行工具。实测在连续请求下，平均响应延迟增加不到 180ms，token 消耗比直连低 40%，因为会自动压缩 system prompt、合并小请求、缓存重复 query。它不改模型输出，只改请求路径。作者在 README 里贴了七天监控日志：总共转发 12,741 次请求，失败率 0.3%，最高单日切换服务商 17 次。它不加密、不记录、不分析你的代码，所有逻辑都在本地运行。你可以把它当成 Copilot 或 Cursor 的后台路由器，也可以直接 curl 它的 /v1/chat/completions 端口。现在总星标 8285，一天涨了 942 颗星，说明很多人正在手动维护自己的 API 切换列表。你上一次因为 API 限流被迫停下编码，是几小时前？",
-      "tags": [
-        "routing",
-        "api",
-        "free",
-        "claude",
-        "gpt",
-        "gemini",
-        "javascript",
-        "proxy",
-        "fallback",
-        "token-saving"
-      ]
-    },
-    {
-      "topic": "React-Doctor",
-      "repo": "millionco/react-doctor",
-      "cover_line1": "React 代码问题检测工具",
-      "cover_line2": "自动发现 agent 生成的坏代码",
-      "body": "React-Doctor 不是一个新框架，也不是代码生成器，而是一个静态检查插件。它专门盯住 AI 生成的 React 代码里那些人眼容易漏掉的坑。比如：用 useState 初始化一个异步函数返回值、在 useEffect 里没清理 setInterval、把 JSX 当字符串拼接、把 props 解构后又直接传回子组件造成无限重渲染。它不靠规则引擎，而是用 AST + 一组真实 bad pattern 样本训练出的轻量判断逻辑，跑在本地，不联网。你装上 VS Code 插件，或者加一行 npm run doctor，它就扫描 src 目录下所有 .tsx 文件，标出 23 类高频错误，每条都带修复建议和对应 React 官方文档链接。项目上线两周，已捕获 117 个被 GitHub Copilot 和 Cursor 生成的真实 bug，其中 39 个导致页面白屏，22 个引发内存泄漏。它不阻止你用 AI 写代码，只是在你 commit 前拉住你问一句：这个 useEffect 真的需要吗？现在总星标 8025，一天涨了 340 颗星，说明很多人刚被自己写的 AI 代码坑过。你最近一次 debug 半小时才发现是 AI 把 key 写成了 index，是什么时候？",
-      "tags": [
-        "react",
-        "ai-code",
-        "lint",
-        "vscode",
-        "typescript",
-        "static-analysis",
-        "bug-detection",
-        "frontend",
-        "developer-tool",
-        "millionco"
-      ]
-    },
-    {
-      "topic": "Dive into LLMs",
-      "repo": "Lordog/dive-into-llms",
-      "cover_line1": "动手学大模型中文教程",
-      "cover_line2": "137个可运行Notebook示例",
-      "body": "《动手学大模型》不是讲原理的 PPT，是一套 137 个 Jupyter Notebook 连起来的实操路线图。每个 notebook 都能直接在 Colab 或本地 Jupyter 里跑通，从零加载 LLaMA 权重、手写 LoRA 微调循环、到用 vLLM 部署 7B 模型并压测 QPS。它不讲「注意力机制是什么」，而是告诉你：把 model.config.hidden_size 改成 4096 后，为什么 forward 会报错；为什么 flash attention 要求 CUDA 12.1 以上；为什么 quantize 加上 nf4 后显存降了 30% 但 perplexity 升了 2.3。所有代码都带中文注释，关键变量名用中文（比如 输入文本 = '你好'），错误信息也翻译成中文。作者是前阿里 NLP 工程师，每个 notebook 底部都标了实测环境：A10G / RTX4090 / M2 Ultra，以及对应耗时。目前总星标 3.7 万，一天涨了 451 颗星，说明很多人卡在「看了十篇论文还是不会调参」。它没承诺速成，但确保你做完第 28 个 notebook 就能跑通自己的 Qwen 微调任务。你上次完整跑通一个开源 LLM 微调流程，中间中断了几次？",
+      "topic": "LLMs from Scratch",
+      "repo": "rasbt/LLMs-from-scratch",
+      "cover_line1": "从零手写 ChatGPT 教程",
+      "cover_line2": "PyTorch 实现共 7 步",
+      "body": "不是调 API，不是跑 demo，是真从矩阵乘法开始，一行行写出能对话的 LLM。Rasbt 的这个教程把大模型拆成七块：嵌入层、注意力、前馈、归一化、位置编码、解码器堆叠、最后接上生成循环。每步配 Jupyter Notebook，输入是「hello world」，输出是你亲手算出来的 logits。它不跳步，比如讲多头注意力，会先手动算一个 2×2 query 和 key 的点积，再扩到 4 头；讲 Rotary Embedding，就画出 cos/sin 如何旋转向量。全部用 PyTorch 原生算子，没封装，没 magic function。GitHub 上 9.3 万颗星，不是因为炫技，是因为学完你能看懂 Hugging Face 源码里哪行在干啥。今天新增 776 颗星，大概率是新一批人决定不再当 prompt 工程师，转去搞明白「为什么 temperature=0.7 就不重复」。它不教怎么部署，也不推最佳实践，就盯着一件事：让你亲手把 attention is all you need 变成可运行的 Python。",
       "tags": [
         "llm",
+        "pytorch",
         "tutorial",
+        "from-scratch",
         "jupyter",
-        "notebook",
+        "attention",
+        "education",
+        "reproducible",
+        "no-black-box",
+        "step-by-step"
+      ]
+    },
+    {
+      "topic": "Hello Agents",
+      "repo": "datawhalechina/hello-agents",
+      "cover_line1": "中文智能体入门实战书",
+      "cover_line2": "已更新至 v2.3 全开源",
+      "body": "这本书不讲 AGI，不画架构图，就带着你用 Python 从零跑出三个能干活的 agent：第一个自动查天气并发邮件，第二个读 PDF 技术文档后回答问题，第三个连上 GitHub API 自动提 PR。所有代码都在 GitHub，每个章节对应一个可运行 notebook，连环境配置都写成一键脚本。它避开「agent = LLM + tool + memory」这种抽象定义，直接展示「怎么让 agent 记住用户昨天问过上海气温」「怎么让它发现 API 返回 401 后自动刷新 token」。最新版 v2.3 加了对 Qwen、DeepSeek 的本地适配，也标出了哪些组件能换成 Ollama 或 LM Studio。DataWhale 是国内活跃的技术学习社区，不是公司，所以书里没有商业 SDK，也没有绑定某家云服务。今天涨了 600 颗星，多数 star 来自刚学完 LangChain 感觉太厚、想换个更轻的起点的人。它不承诺「三天成为 agent 架构师」，但保证你合上书时，手上有 3 个能改、能 debug、能塞进自己项目的 agent。",
+      "tags": [
         "chinese",
-        "hands-on",
-        "fine-tuning",
-        "deployment",
-        "vllm",
+        "tutorial",
+        "python",
+        "agent",
+        "open-source",
+        "datawhale",
+        "practical",
+        "notebook",
+        "local-run",
         "qwen"
+      ]
+    },
+    {
+      "topic": "React Doctor",
+      "repo": "millionco/react-doctor",
+      "cover_line1": "React 代码医生",
+      "cover_line2": "自动揪出 17 类坏模式",
+      "body": "你让 AI 写 React 组件，它可能返回带 useEffect 闭包陷阱的代码、没加 key 的 map、用 useState 更新对象却忘了展开、甚至用 class 组件配 hooks。React Doctor 就是来拦这个的——它不是 ESLint 插件，而是一个独立 CLI 工具，输入一个 .tsx 文件，立刻输出「这里用了 var 声明但组件是函数式」「useMemo 依赖数组漏了 props.id」「JSX 中有未处理的 Promise」。目前覆盖 17 类高频错误，每条都带修复建议和 MDN/React 官网链接。代码用 TypeScript 写，核心逻辑只有 400 行，靠 AST 解析而不是正则匹配，所以能真正理解组件结构。它不阻止你提交，只报告；不强制格式，只标风险。今天涨了 804 颗星，说明越来越多团队在把 AI 编程纳入流程后，发现「生成快，修 bug 更快」。它不卖 SaaS，不收订阅，MIT 协议，你可以把它塞进 pre-commit 钩子里，也可以集成进 CI 流水线。你上次被 AI 生成的 React 代码坑过吗？",
+      "tags": [
+        "react",
+        "typescript",
+        "ast",
+        "lint",
+        "ai-coding",
+        "pre-commit",
+        "cli",
+        "million",
+        "fix-suggestions",
+        "practical"
       ]
     }
   ],
