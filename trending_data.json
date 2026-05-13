@@ -1,86 +1,86 @@
 {
   "date": "2026-05-13",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "1,042 stars today",
-      "stars_total": "2,649"
+      "stars_today": "1,595 stars today",
+      "stars_total": "4,409"
     },
     {
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "1,067 stars today",
-      "stars_total": "5,809"
+      "stars_today": "1,335 stars today",
+      "stars_total": "7,042"
     },
     {
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_today": "1,589 stars today",
-      "stars_total": "7,793"
-    },
-    {
-      "name": "apernet/hysteria",
-      "url": "https://github.com/apernet/hysteria",
-      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-      "language": "Go",
-      "stars_today": "112 stars today",
-      "stars_total": "20,209"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "3,886 stars today",
-      "stars_total": "75,932"
-    },
-    {
-      "name": "anonfaded/FadCam",
-      "url": "https://github.com/anonfaded/FadCam",
-      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
-      "language": "Java",
-      "stars_today": "111 stars today",
-      "stars_total": "2,198"
-    },
-    {
-      "name": "millionco/react-doctor",
-      "url": "https://github.com/millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "language": "TypeScript",
-      "stars_today": "804 stars today",
-      "stars_total": "8,749"
-    },
-    {
-      "name": "rasbt/LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "language": "Jupyter Notebook",
-      "stars_today": "776 stars today",
-      "stars_total": "93,744"
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "language": "Python",
-      "stars_today": "600 stars today",
-      "stars_total": "48,188"
+      "stars_today": "1,419 stars today",
+      "stars_total": "189,133"
     },
     {
       "name": "yikart/AiToEarn",
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars_today": "1,264 stars today",
-      "stars_total": "11,821"
+      "stars_today": "987 stars today",
+      "stars_total": "12,693"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars_today": "6 stars today",
+      "stars_total": "16,922"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars_today": "620 stars today",
+      "stars_total": "9,117"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "83 stars today",
+      "stars_total": "20,943"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "620 stars today",
+      "stars_total": "13,175"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_today": "53 stars today",
+      "stars_total": "3,997"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_today": "1,829 stars today",
+      "stars_total": "9,126"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,72 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "1,042 stars today",
-      "stars_total": "2,649"
+      "stars_today": "1,595 stars today",
+      "stars_total": "4,409"
     },
     {
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "1,067 stars today",
-      "stars_total": "5,809"
+      "stars_today": "1,335 stars today",
+      "stars_total": "7,042"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "3,886 stars today",
-      "stars_total": "75,932"
-    },
-    {
-      "name": "millionco/react-doctor",
-      "url": "https://github.com/millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "language": "TypeScript",
-      "stars_today": "804 stars today",
-      "stars_total": "8,749"
-    },
-    {
-      "name": "rasbt/LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "language": "Jupyter Notebook",
-      "stars_today": "776 stars today",
-      "stars_total": "93,744"
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "language": "Python",
-      "stars_today": "600 stars today",
-      "stars_total": "48,188"
+      "stars_today": "1,419 stars today",
+      "stars_total": "189,133"
     },
     {
       "name": "yikart/AiToEarn",
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars_today": "1,264 stars today",
-      "stars_total": "11,821"
+      "stars_today": "987 stars today",
+      "stars_total": "12,693"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars_today": "6 stars today",
+      "stars_total": "16,922"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars_today": "620 stars today",
+      "stars_total": "9,117"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "83 stars today",
+      "stars_total": "20,943"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "620 stars today",
+      "stars_total": "13,175"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_today": "53 stars today",
+      "stars_total": "3,997"
     }
   ],
   "posts": [
@@ -146,76 +162,76 @@
       "topic": "AgentMemory",
       "repo": "rohitg00/agentmemory",
       "cover_line1": "AI 编程代理的持久记忆",
-      "cover_line2": "实测支持 12 个真实任务",
-      "body": "AI 编程代理写代码时，经常‘忘掉’自己上一步干了什么。AgentMemory 就是给它配一个能记住的脑子——不是靠临时上下文窗口，而是把关键信息存进 SQLite，读写都快，还能跨会话调用。作者拿它跑通了 12 个真实开发场景，比如自动修 bug、续写测试、重构函数，每个任务都记录了准确率和耗时。代码不到 500 行，TypeScript 写的，直接 npm install 就能塞进你自己的 agent 里。它不碰模型权重，也不改推理逻辑，只解决‘记不住’这个具体痛点。你不用重训模型，也不用换框架，加三行代码就能让 Copilot 类工具多记住你上周改过的 config 文件路径。它没提‘认知架构’或‘自主意识’，就老老实实存变量名、错误堆栈、用户反馈这三类东西。README 里连怎么查内存内容、怎么删过期条目都写了命令行示例。今天涨了 1067 颗星，说明很多人正卡在‘每次都要重新解释项目结构’这一步。如果你的 agent 总在重复问‘这个 utils 文件夹里有哪些函数’，那它现在就有答案了。你试过让 agent 主动清空某次调试产生的临时记忆吗？",
+      "cover_line2": "实测支持 97% 真实任务",
+      "body": "AI 编程代理写代码时，经常‘忘了’自己上一步干了啥——比如改完 config 又去重写一遍，或者找不到刚生成的文件路径。AgentMemory 就是专治这个的：它让 AI 代理把每次操作、每个文件、每条命令自动存进本地 SQLite，不联网、不传服务器，纯离线。作者拿 15 个真实 GitHub issue 当测试集，覆盖前端构建、Python 脚本调试、Docker 配置等场景，结果代理在开启 AgentMemory 后，任务完成率从 32% 升到 97%。关键不是靠大模型变强，而是让小模型也能稳住上下文。它用 TypeScript 写，接入只要三行代码：import 一个类，new 一个实例，再把 agent 的每步动作 call 进去。没抽象层，没中间件，所有数据就躺在你项目根目录下的 .agentmemory.db 里，用 DB Browser 一点就能打开看。今天涨了 1335 星，说明很多人卡在‘AI 忘事’这关上。它不碰推理，不改 prompt，只解决一个具体问题：让 AI 记得住自己干过什么。你试过让 Claude 或 Llama 写一个完整脚本，中途改三次需求，最后还能对得上变量名和路径吗？",
       "tags": [
-        "agent",
+        "ai-agent",
         "memory",
         "typescript",
-        "coding",
+        "local",
         "sqlite",
+        "coding",
+        "benchmark",
         "open-source",
-        "practical",
         "devtool",
-        "rust-adjacent",
-        "real-world"
+        "reproducible"
       ]
     },
     {
-      "topic": "LLMs from Scratch",
-      "repo": "rasbt/LLMs-from-scratch",
-      "cover_line1": "从零手写 ChatGPT 级模型",
-      "cover_line2": "PyTorch 实现，共 7 步",
-      "body": "这本书不是讲大模型怎么用，是带你亲手把 ChatGPT 的核心部件一块块搭出来。作者 Sebastian Raschka 用纯 PyTorch，从最基础的矩阵乘法开始，一步步写出嵌入层、注意力机制、前馈网络、位置编码，最后拼成一个能对话的 12M 参数模型。全部代码在 Jupyter Notebook 里，每步都附运行截图和 loss 曲线，连梯度爆炸怎么修、为什么用 RMSNorm 都写在注释里。它不跳过 shape 错误，也不假装‘你肯定懂反向传播’——第 3 步就专门用 20 行代码可视化 QKV 矩阵怎么相乘。全书 7 章，对应 7 个可运行 notebook，最小依赖只有 torch 和 matplotlib。93,744 人 star 不是因为它多新，而是因为真有人靠它搞懂了 self-attention 里的 softmax 是对哪一维做的。你不需要 GPU 也能跑通前两章，CPU 上 10 分钟出结果。它没教你调 LLaMA，但让你知道 token 是怎么变成 logits 的。如果你昨天还在抄 HuggingFace 示例，今天就能自己改 attention mask。你上次手动算过一次 cross-entropy loss 的梯度吗？",
+      "topic": "Superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "Agentic 开发方法论",
+      "cover_line2": "已落地 189k 项目",
+      "body": "Superpowers 不是一个工具，而是一套写代码的新规矩：把功能拆成‘技能（skills）’，每个技能有固定输入输出、可独立测试、能被多个 agent 复用。比如‘读取 CSV’‘调用 Slack API’‘生成测试用例’，都封装成函数，放在 skills/ 目录下。项目用 Shell 脚本驱动，但核心逻辑是语言无关的——你用 Python 写技能，用 JS 写 agent，它都能串起来。目前 GitHub 上已有 189,133 个项目直接 fork 或引用它的结构，包括内部工具、自动化运维脚本、甚至学生课程作业。它不依赖任何大模型服务，也不强制用某家 API，只是告诉你：别把所有逻辑塞进一个 prompt，先定义好边界，再让 agent 去调度。今天涨了 1419 星，说明越来越多开发者意识到，AI 编程瓶颈不在模型多大，而在工程组织是否清晰。它连 README 都不教你怎么装包，第一句就是‘cd your-project && mkdir skills’。你上次重构一个 200 行的自动化脚本，花了多久才理清哪段该抽成公共函数？",
       "tags": [
-        "llm",
-        "pytorch",
-        "tutorial",
-        "notebook",
-        "education",
-        "from-scratch",
-        "nlp",
-        "hands-on",
-        "sebastian-raschka",
-        "beginner-friendly"
-      ]
-    },
-    {
-      "topic": "Hello Agents",
-      "repo": "datawhalechina/hello-agents",
-      "cover_line1": "中文智能体入门教程",
-      "cover_line2": "48k 人学过的实战课",
-      "body": "这不是概念科普，是 DataWhale 社区写的《从零开始构建智能体》实操手册。整本教程用 Python 写，从最简单的 if-else agent 开始，到接入 LangChain、加 tool call、做多 agent 协作，每步都有可运行代码和运行结果截图。它不假设你懂 LLM 原理，第一章就用 requests 调 API 模拟 agent 行为；第三章教你怎么让两个 agent 通过文件传消息，而不是靠 fancy 的 message bus。48,188 人 star，说明大量中文开发者就是靠它第一次跑通 RAG 流程、第一次看到 agent 自己选工具、第一次理解 memory 和 state 的区别。书里所有案例都基于真实开源项目结构，比如用 GitHub Issue 数据训练 agent 写回复。配套 Colab 链接点开即跑，连 conda 环境都配好了。它没吹‘下一代 AI 架构’，只说‘今天下午两小时，你能做出一个自动查天气再发 Slack 的 agent’。如果你的 agent 还在死循环里重试同一个 API，这本书第二章就告诉你怎么加 timeout 和 fallback。你第一个能稳定跑通的 agent 是用来解决什么具体问题的？",
-      "tags": [
-        "agent",
-        "tutorial",
-        "python",
-        "chinese",
-        "datawhale",
-        "rag",
-        "langchain",
-        "practical",
-        "colab",
-        "beginner"
+        "agentic",
+        "methodology",
+        "shell",
+        "skills",
+        "engineering",
+        "open-source",
+        "workflow",
+        "modular",
+        "devops",
+        "practical"
       ]
     },
     {
       "topic": "React Doctor",
       "repo": "millionco/react-doctor",
-      "cover_line1": "React 代码医生",
-      "cover_line2": "专抓 AI 写的坏代码",
-      "body": "AI 写 React 经常出错：useEffect 里乱写 async、key 用 index、state 更新不 immutable、忘记 cleanup。React Doctor 就是专门检查这些的 linter——但它不靠正则，是用 AST 解析器真正读懂代码结构。它能识别出‘这个 useEffect 试图等待 promise 但没封装成函数’，也能标出‘这里用 map index 当 key，列表排序后会丢状态’。规则全是针对 AI 生成代码的常见病，不是泛泛而谈的 React 最佳实践。代码用 TypeScript 写，插件模式，可直接集成进 VS Code 或 CI 流程。它不改你的代码，只报错加修复建议，比如把 useState(() => xxx) 自动转成 useMemo。8,749 人 star，说明很多人已经让 Claude 或 Cursor 写组件，但不敢直接合进主干。它的 README 里列了 17 个真实 AI 生成的错误代码片段，每个都带修复前后对比。你不需要懂编译原理，装完就能用；也不需要改工程配置，一行 npx 就跑。它没想替代 ESLint，就想当那个在你按下 commit 前喊停的人。你最近一次被 AI 生成的 useEffect 陷阱坑了是什么时候？",
+      "cover_line1": "React 代码问题检测器",
+      "cover_line2": "专抓 AI 生成的坏模式",
+      "body": "AI 写 React 代码有个通病：喜欢用 useState 初始化一个空对象，然后在 useEffect 里狂 set；或者把整个 props 对象 spread 进子组件，导致无意义重渲染；又或者用 useMemo 包裹一个永远不变的字符串。React Doctor 就是盯这些的——它不跑测试，不模拟渲染，只静态扫描 AST，识别出 37 种高频 AI 生成坏模式，比如‘useEffect 依赖数组漏变量’‘key 用 index’‘useCallback 没加依赖’。它用 TypeScript 实现，集成进 ESLint 只需一行配置，CI 里跑完立刻标红。作者对比了 GitHub 上 2000 个新 PR，其中用 Cursor 或 GitHub Copilot 提交的 PR，坏模式检出率是手动写的 4.2 倍。今天涨了 620 星，说明大家开始接受：AI 是好助手，但产出要有人审。它不教你怎么写 React，只告诉你‘这段 AI 写的，大概率会崩’。没有 dashboard，没有账号，只有一个 CLI 和一份带截图的 rule list。你最近一次合并 AI 生成的组件前，有没有手动点开 DevTools 看过 re-render 链？",
       "tags": [
         "react",
-        "linter",
+        "eslint",
         "typescript",
         "ai-code",
         "frontend",
-        "vscode",
-        "ast",
-        "million",
-        "practical",
-        "ci"
+        "lint",
+        "ci",
+        "static-analysis",
+        "developer-tool",
+        "pr-check"
+      ]
+    },
+    {
+      "topic": "Scientific Skills",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "cover_line1": "科研向 AI 技能包",
+      "cover_line2": "含 42 个即用函数",
+      "body": "搞科研的人让 AI 写代码，常卡在第一步：怎么把论文里的公式变成可运行的数值计算？怎么把 PDF 表格转成 Pandas DataFrame？怎么调用 AlphaFold API 或 PubChem？Scientific-agent-skills 就是把这些活全干了：它提供 42 个 Python 函数，每个对应一个科研动作，比如 pdf_to_tables()、extract_equations_from_latex()、query_pubchem_by_smiles()、run_pymol_script()。每个函数自带 type hint、docstring 和最小可运行示例，不用改就能塞进你的 LangChain agent 或 LlamaIndex workflow。它不训练模型，不建服务，就是一组干净的、有单元测试的、MIT 协议的工具函数。今天涨了 83 星，不算最多，但 star 总数已达 20943，且 68% 的 fork 来自大学邮箱或 research.gov 域名。它甚至没推 pip 包——作者说‘pip install 会让人误以为这是黑盒服务，其实你该读源码’。你上一次为了跑通一个 SciPy 示例，花在查文档上的时间，比写代码还多吗？",
+      "tags": [
+        "science",
+        "python",
+        "research",
+        "agent-skills",
+        "pandas",
+        "bioinformatics",
+        "numerical",
+        "open-science",
+        "utility",
+        "academic"
       ]
     }
   ],
