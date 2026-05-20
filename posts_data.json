@@ -2,24 +2,6 @@
   "date": "2026-05-20",
   "posts": [
     {
-      "topic": "Railway Blocked by G",
-      "cover_line1": "Railway Bl",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Railway Blocked by Google Cloud**\n\n📌 来源：HackerNews\n🔗 https://status.railway.com/?date=20260519\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
       "topic": "Gemini 3.5 Flash",
       "cover_line1": "Gemini 3.5",
       "cover_line2": "今日 AI 热点速报",
@@ -60,6 +42,24 @@
       "cover_line1": "Remove–AI–",
       "cover_line2": "今日 AI 热点速报",
       "body": "🔥 今日 AI 圈又炸了！\n\n**Remove–AI–Watermarks – CLI and library for removing AI watermarks from images**\n\n📌 来源：HackerNews\n🔗 https://github.com/wiltodelta/remove-ai-watermarks\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Show HN: Forge – Gua",
+      "cover_line1": "Show HN: F",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks**\n\n📌 来源：HackerNews\n🔗 https://github.com/antoinezambelli/forge\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
