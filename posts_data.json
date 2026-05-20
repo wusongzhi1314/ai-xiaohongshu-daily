@@ -2,75 +2,75 @@
   "date": "2026-05-20",
   "posts": [
     {
+      "topic": "Railway Blocked by G",
+      "cover_line1": "Railway Bl",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Railway Blocked by Google Cloud**\n\n📌 来源：HackerNews\n🔗 https://status.railway.com/?date=20260519\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
       "topic": "Gemini 3.5 Flash",
-      "cover_line1": "Google 发布 Gemini 3.5 Flash",
-      "cover_line2": "响应快 2 倍，成本降 40%",
-      "body": "Google 今天上线了 Gemini 3.5 Flash，不是全新大模型，而是对现有 3.5 系列的轻量级优化版本。它专为高吞吐、低延迟场景设计，比如实时对话、API 批量调用、前端嵌入。官方测试显示，在相同硬件上，它的平均响应速度比 Gemini 3.5 Pro 快约 2 倍；每百万 token 的输入成本下降 40%，输出成本降 35%。它保留了 3.5 系列的 1M 上下文和多模态理解能力，但删减了部分推理链深度，不支持复杂多步规划任务。开发者可直接通过 Google AI Studio 或 Vertex AI 调用，无需申请权限。目前只开放文本和图像输入，暂不支持视频或音频。这版不是替代 Pro，而是补位——当你需要跑得快、花得少、结果够用时，它就是那个「默认选它」的选项。对中小团队和 SaaS 产品来说，意味着能用更低成本把 AI 对话嵌进客服、笔记、表单等高频入口，而不用再纠结要不要为每条请求付 Pro 级价格。不过它没公布具体参数量或训练数据量，也没开源权重，还是纯 API 服务。你用它跑过真实业务流吗？",
+      "cover_line1": "Gemini 3.5",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.5 Flash**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Google",
-        "Gemini",
-        "LLM",
-        "API",
-        "cost",
-        "speed",
-        "multimodal",
-        "production",
         "AI",
-        "2026"
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "OpenAI 接入 SynthID",
-      "cover_line1": "OpenAI 采用 Google SynthID 水印",
-      "cover_line2": "所有 DALL·E 3 图像自动加水印",
-      "body": "OpenAI 宣布从今天起，DALL·E 3 生成的每张图片都嵌入 Google 开发的 SynthID 水印。这不是贴在图上的透明 logo，而是把不可见信号写进像素值里，哪怕图片被裁剪、调色、压缩，只要保留原图 70% 以上像素，就能用官方验证工具准确识别。水印包含生成时间、模型版本（DALL·E 3 v3.2）、调用账号哈希前缀，但不关联用户身份。OpenAI 还同步上线了公开验证页面，任何人拖入一张图，几秒内就能看到「是否含 SynthID」「置信度」「可能的生成模型」。这是首次有主流图像生成服务商全量启用第三方水印技术，且不收费、不限调用量。对内容平台来说，以后审核 AI 图就多了一道机器可读依据；对设计师来说，水印默认开启，不能关，但也不影响导出使用。不过 SynthID 目前只支持 PNG/JPEG，不支持 WebP 和 GIF，且无法检测重绘后的二次生成图。你打算靠这个水印来管理自己生成的内容资产吗？",
+      "topic": "Infomaniak transitio",
+      "cover_line1": "Infomaniak",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Infomaniak transitions to a foundation model to protect user data privacy**\n\n📌 来源：HackerNews\n🔗 https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "OpenAI",
-        "Google",
-        "SynthID",
-        "watermark",
-        "DALL-E",
-        "provenance",
-        "image",
-        "trust",
         "AI",
-        "2026"
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Mistral 收购 Emmi",
-      "cover_line1": "Mistral AI 收购 Emmi AI",
-      "cover_line2": "整合本地部署 + RAG 工具链",
-      "body": "Mistral AI 今天宣布全资收购法国公司 Emmi AI，交易金额未披露，但明确说将 Emmi 的全部工程师和 RAG 工具栈并入 Mistral 工程团队。Emmi 最知名的产品是 Emmi Search，一个专注私有知识库的轻量 RAG 引擎，支持 PDF/Word/Notion 导入，能在单台 M2 Mac 上跑满 128K 上下文检索，延迟低于 800ms。收购后，Mistral 将把 Emmi Search 直接集成进其开源模型分发平台「Mistral Hub」，未来所有 Mistral 模型（包括即将发布的 32B 版本）都将内置该 RAG 模块，开发者只需一行命令就能启用本地文档问答。不是插件，不是 SDK，是模型加载时自动附带的能力。Emmi 原团队已停止独立运营，官网跳转至 Mistral 博客公告页。这件事对想落地企业私有 AI 的人很实在：不用再拼凑 Chroma + LlamaIndex + 自研向量服务，一条 pip install 就能拿到开箱即用的检索增强链。但 Emmi 的 Web UI 和协作功能不会开源，仅限 Mistral Cloud 订阅用户使用。你最近一次为 RAG 搭建服务花了多少小时？",
+      "topic": "Remove–AI–Watermarks",
+      "cover_line1": "Remove–AI–",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Remove–AI–Watermarks – CLI and library for removing AI watermarks from images**\n\n📌 来源：HackerNews\n🔗 https://github.com/wiltodelta/remove-ai-watermarks\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Mistral",
-        "Emmi",
-        "RAG",
-        "local",
-        "enterprise",
-        "open-source",
-        "LLM",
-        "search",
         "AI",
-        "2026"
-      ]
-    },
-    {
-      "topic": "Forge 提升智能体准确率",
-      "cover_line1": "Forge 开源框架提升智能体准确率",
-      "cover_line2": "8B 模型 agentic 任务达 99%",
-      "body": "开发者 Antoine Zambelli 开源了一个叫 Forge 的轻量框架，专门给小模型（比如 Qwen2-8B、Phi-3-8B）加「行为护栏」，让它在做智能体（agentic）任务时更稳。测试用的是标准的 AgentBench 套件，任务包括订机票、查天气、填表格等需多步工具调用的流程。没加 Forge 时，Qwen2-8B 在这些任务上平均准确率是 53%；加上 Forge 后，准确率升到 99%。它不改模型权重，也不微调，而是靠三样东西：一是预设的「动作契约」，强制每步输出必须带 tool_name 和 args 字段；二是运行时校验器，拦截格式错、参数空、工具名不存在的调用；三是失败回滚机制，某步失败后自动重试前一步而非硬卡住。整个框架不到 300 行 Python，可插拔进任何 HuggingFace 模型 pipeline。它解决的不是「能不能答」，而是「会不会错着执行」。对想快速验证智能体逻辑、又不想堆大模型的团队，这是个省时间的脚手架。但它不解决幻觉问题，也不提升单步推理质量，只是让已有能力不掉链子。你试过让 8B 模型连续完成 5 步工具调用还不翻车吗？",
-      "tags": [
-        "Forge",
-        "agent",
-        "RAG",
-        "tool-use",
-        "small-model",
-        "open-source",
-        "Python",
-        "HuggingFace",
-        "AI",
-        "2026"
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
