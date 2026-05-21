@@ -7,80 +7,80 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "1,910 stars today",
-      "stars_total": "8,499"
+      "stars_today": "2,123 stars today",
+      "stars_total": "9,457"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "1,639 stars today",
-      "stars_total": "15,594"
+      "stars_today": "1,667 stars today",
+      "stars_total": "16,128"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,603 stars today",
-      "stars_total": "23,299"
+      "stars_today": "3,394 stars today",
+      "stars_total": "23,592"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,620 stars today",
-      "stars_total": "140,197"
+      "stars_today": "2,679 stars today",
+      "stars_total": "140,758"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "762 stars today",
-      "stars_total": "9,205"
+      "stars_today": "765 stars today",
+      "stars_total": "9,525"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "930 stars today",
-      "stars_total": "38,361"
+      "stars_today": "890 stars today",
+      "stars_total": "38,521"
     },
     {
       "name": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_today": "237 stars today",
-      "stars_total": "5,277"
+      "stars_today": "270 stars today",
+      "stars_total": "5,388"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,776 stars today",
-      "stars_total": "199,710"
+      "stars_today": "1,743 stars today",
+      "stars_total": "199,990"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "706 stars today",
-      "stars_total": "20,615"
+      "stars_today": "674 stars today",
+      "stars_total": "20,770"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,714 stars today",
-      "stars_total": "102,588"
+      "stars_today": "1,636 stars today",
+      "stars_total": "102,812"
     }
   ],
   "ai_repos": [
@@ -89,80 +89,80 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "1,910 stars today",
-      "stars_total": "8,499"
+      "stars_today": "2,123 stars today",
+      "stars_total": "9,457"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "1,639 stars today",
-      "stars_total": "15,594"
+      "stars_today": "1,667 stars today",
+      "stars_total": "16,128"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,603 stars today",
-      "stars_total": "23,299"
+      "stars_today": "3,394 stars today",
+      "stars_total": "23,592"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,620 stars today",
-      "stars_total": "140,197"
+      "stars_today": "2,679 stars today",
+      "stars_total": "140,758"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "762 stars today",
-      "stars_total": "9,205"
+      "stars_today": "765 stars today",
+      "stars_total": "9,525"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "930 stars today",
-      "stars_total": "38,361"
+      "stars_today": "890 stars today",
+      "stars_total": "38,521"
     },
     {
       "name": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_today": "237 stars today",
-      "stars_total": "5,277"
+      "stars_today": "270 stars today",
+      "stars_total": "5,388"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,776 stars today",
-      "stars_total": "199,710"
+      "stars_today": "1,743 stars today",
+      "stars_total": "199,990"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "706 stars today",
-      "stars_total": "20,615"
+      "stars_today": "674 stars today",
+      "stars_total": "20,770"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,714 stars today",
-      "stars_total": "102,588"
+      "stars_today": "1,636 stars today",
+      "stars_total": "102,812"
     }
   ],
   "posts": [
