@@ -7,80 +7,80 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "891 stars today",
-      "stars_total": "21,705"
+      "stars_today": "682 stars today",
+      "stars_total": "22,373"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "4,222 stars today",
-      "stars_total": "12,554"
+      "stars_today": "4,294 stars today",
+      "stars_total": "13,387"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,590 stars today",
-      "stars_total": "142,655"
+      "stars_today": "2,614 stars today",
+      "stars_total": "143,115"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "96 stars today",
-      "stars_total": "2,080"
+      "stars_today": "129 stars today",
+      "stars_total": "2,185"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,572 stars today",
-      "stars_total": "201,207"
+      "stars_today": "1,576 stars today",
+      "stars_total": "201,483"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "644 stars today",
-      "stars_total": "38,960"
+      "stars_today": "656 stars today",
+      "stars_total": "39,106"
     },
     {
       "name": "rmyndharis/OpenWA",
       "url": "https://github.com/rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars_today": "704 stars today",
-      "stars_total": "5,264"
+      "stars_today": "730 stars today",
+      "stars_total": "5,397"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "132 stars today",
-      "stars_total": "40,345"
+      "stars_today": "151 stars today",
+      "stars_total": "40,475"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "1,318 stars today",
-      "stars_total": "10,481"
+      "stars_today": "1,333 stars today",
+      "stars_total": "10,694"
     },
     {
       "name": "teng-lin/notebooklm-py",
       "url": "https://github.com/teng-lin/notebooklm-py",
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
-      "stars_today": "182 stars today",
-      "stars_total": "14,261"
+      "stars_today": "186 stars today",
+      "stars_total": "14,366"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,72 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "891 stars today",
-      "stars_total": "21,705"
+      "stars_today": "682 stars today",
+      "stars_total": "22,373"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "4,222 stars today",
-      "stars_total": "12,554"
+      "stars_today": "4,294 stars today",
+      "stars_total": "13,387"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,590 stars today",
-      "stars_total": "142,655"
+      "stars_today": "2,614 stars today",
+      "stars_total": "143,115"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "96 stars today",
-      "stars_total": "2,080"
+      "stars_today": "129 stars today",
+      "stars_total": "2,185"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,572 stars today",
-      "stars_total": "201,207"
+      "stars_today": "1,576 stars today",
+      "stars_total": "201,483"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "644 stars today",
-      "stars_total": "38,960"
+      "stars_today": "656 stars today",
+      "stars_total": "39,106"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "132 stars today",
-      "stars_total": "40,345"
+      "stars_today": "151 stars today",
+      "stars_total": "40,475"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "1,318 stars today",
-      "stars_total": "10,481"
+      "stars_today": "1,333 stars today",
+      "stars_total": "10,694"
     },
     {
       "name": "teng-lin/notebooklm-py",
       "url": "https://github.com/teng-lin/notebooklm-py",
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
-      "stars_today": "182 stars today",
-      "stars_total": "14,261"
+      "stars_today": "186 stars today",
+      "stars_total": "14,366"
     }
   ],
   "posts": [
