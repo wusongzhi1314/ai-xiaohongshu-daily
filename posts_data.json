@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "posts": [
     {
-      "topic": "An OpenAI model has ",
-      "cover_line1": "An OpenAI ",
+      "topic": "Project Hail Mary – ",
+      "cover_line1": "Project Ha",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**An OpenAI model has disproved a central conjecture in discrete geometry**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/model-disproves-discrete-geometry-conjecture/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Project Hail Mary – Stellar Navigation Chart**\n\n📌 来源：HackerNews\n🔗 https://valhovey.github.io/gaia-mary/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Qwen3.7-Max: The Age",
-      "cover_line1": "Qwen3.7-Ma",
+      "topic": "AI is killing the ch",
+      "cover_line1": "AI is kill",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Qwen3.7-Max: The Agent Frontier**\n\n📌 来源：HackerNews\n🔗 https://qwen.ai/blog?id=qwen3.7\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is killing the cheap smartphone**\n\n📌 来源：HackerNews\n🔗 https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Qian Xuesen: The mis",
-      "cover_line1": "Qian Xuese",
+      "topic": "Launch HN: Runtime (",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Qian Xuesen: The missile genius America lost and China gained (2025)**\n\n📌 来源：HackerNews\n🔗 https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team**\n\n📌 来源：HackerNews\n🔗 https://www.runtm.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic is expandi",
-      "cover_line1": "Anthropic ",
+      "topic": "Show HN: Agent.email",
+      "cover_line1": "Show HN: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic is expanding to Colossus2. Will use GB200**\n\n📌 来源：HackerNews\n🔗 https://xcancel.com/nottombrown/status/2057194829986300375\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Agent.email – sign up via curl, claim with a human OTP**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-21/cover1.png",
-    "assets/2026-05-21/cover2.png",
-    "assets/2026-05-21/cover3.png",
-    "assets/2026-05-21/cover4.png"
+    "assets/2026-05-22/cover1.png",
+    "assets/2026-05-22/cover2.png",
+    "assets/2026-05-22/cover3.png",
+    "assets/2026-05-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-21/cover1_feishu.png",
-    "assets/2026-05-21/cover2_feishu.png",
-    "assets/2026-05-21/cover3_feishu.png",
-    "assets/2026-05-21/cover4_feishu.png"
+    "assets/2026-05-22/cover1_feishu.png",
+    "assets/2026-05-22/cover2_feishu.png",
+    "assets/2026-05-22/cover3_feishu.png",
+    "assets/2026-05-22/cover4_feishu.png"
   ]
 }
