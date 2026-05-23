@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "posts": [
     {
-      "topic": "Open source Kanban d",
-      "cover_line1": "Open sourc",
+      "topic": "Italy moves to Airbu",
+      "cover_line1": "Italy move",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Open source Kanban desktop app that runs parallel agents on every card**\n\n📌 来源：HackerNews\n🔗 https://www.kanbots.dev/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Italy moves to Airbus A330 tankers**\n\n📌 来源：HackerNews\n🔗 https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Lawmakers Demand Ans",
-      "cover_line1": "Lawmakers ",
+      "topic": "Microsoft starts can",
+      "cover_line1": "Microsoft ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Lawmakers Demand Answers as CISA Tries to Contain Data Leak**\n\n📌 来源：HackerNews\n🔗 https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Microsoft starts canceling Claude Code licenses**\n\n📌 来源：HackerNews\n🔗 https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "I’m Writing Again",
-      "cover_line1": "I’m Writin",
+      "topic": "Alberta will vote on",
+      "cover_line1": "Alberta wi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I’m Writing Again**\n\n📌 来源：HackerNews\n🔗 https://www.cringely.com/2026/05/21/im-writing-again/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Alberta will vote on whether to remain part of Canada. What now?**\n\n📌 来源：HackerNews\n🔗 https://www.bbc.com/news/articles/c809jg1gj9yo\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Antigravity 2.0 Tops",
-      "cover_line1": "Antigravit",
+      "topic": "Anthropic blames dys",
+      "cover_line1": "Anthropic ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark**\n\n📌 来源：HackerNews\n🔗 https://modelrift.com/blog/openscad-llm-benchmark/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic blames dystopian sci-fi for training AI models to act \"evil\"**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-23/cover1.png",
-    "assets/2026-05-23/cover2.png",
-    "assets/2026-05-23/cover3.png",
-    "assets/2026-05-23/cover4.png"
+    "assets/2026-05-24/cover1.png",
+    "assets/2026-05-24/cover2.png",
+    "assets/2026-05-24/cover3.png",
+    "assets/2026-05-24/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-23/cover1_feishu.png",
-    "assets/2026-05-23/cover2_feishu.png",
-    "assets/2026-05-23/cover3_feishu.png",
-    "assets/2026-05-23/cover4_feishu.png"
+    "assets/2026-05-24/cover1_feishu.png",
+    "assets/2026-05-24/cover2_feishu.png",
+    "assets/2026-05-24/cover3_feishu.png",
+    "assets/2026-05-24/cover4_feishu.png"
   ]
 }
