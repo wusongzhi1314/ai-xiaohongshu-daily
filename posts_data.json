@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "posts": [
     {
-      "topic": "Project Hail Mary – ",
-      "cover_line1": "Project Ha",
+      "topic": "Open source Kanban d",
+      "cover_line1": "Open sourc",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Project Hail Mary – Stellar Navigation Chart**\n\n📌 来源：HackerNews\n🔗 https://valhovey.github.io/gaia-mary/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Open source Kanban desktop app that runs parallel agents on every card**\n\n📌 来源：HackerNews\n🔗 https://www.kanbots.dev/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI is killing the ch",
-      "cover_line1": "AI is kill",
+      "topic": "Lawmakers Demand Ans",
+      "cover_line1": "Lawmakers ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is killing the cheap smartphone**\n\n📌 来源：HackerNews\n🔗 https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Lawmakers Demand Answers as CISA Tries to Contain Data Leak**\n\n📌 来源：HackerNews\n🔗 https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Runtime (",
-      "cover_line1": "Launch HN:",
+      "topic": "I’m Writing Again",
+      "cover_line1": "I’m Writin",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team**\n\n📌 来源：HackerNews\n🔗 https://www.runtm.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I’m Writing Again**\n\n📌 来源：HackerNews\n🔗 https://www.cringely.com/2026/05/21/im-writing-again/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Agent.email",
-      "cover_line1": "Show HN: A",
+      "topic": "Antigravity 2.0 Tops",
+      "cover_line1": "Antigravit",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Agent.email – sign up via curl, claim with a human OTP**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark**\n\n📌 来源：HackerNews\n🔗 https://modelrift.com/blog/openscad-llm-benchmark/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-22/cover1.png",
-    "assets/2026-05-22/cover2.png",
-    "assets/2026-05-22/cover3.png",
-    "assets/2026-05-22/cover4.png"
+    "assets/2026-05-23/cover1.png",
+    "assets/2026-05-23/cover2.png",
+    "assets/2026-05-23/cover3.png",
+    "assets/2026-05-23/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-22/cover1_feishu.png",
-    "assets/2026-05-22/cover2_feishu.png",
-    "assets/2026-05-22/cover3_feishu.png",
-    "assets/2026-05-22/cover4_feishu.png"
+    "assets/2026-05-23/cover1_feishu.png",
+    "assets/2026-05-23/cover2_feishu.png",
+    "assets/2026-05-23/cover3_feishu.png",
+    "assets/2026-05-23/cover4_feishu.png"
   ]
 }
