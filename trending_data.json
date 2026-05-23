@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-22",
-  "slot": "晚报",
+  "date": "2026-05-23",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "2,556 stars today",
-      "stars_total": "24,152"
+      "stars_today": "2,549 stars today",
+      "stars_total": "24,894"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "3,688 stars today",
-      "stars_total": "15,920"
+      "stars_today": "3,684 stars today",
+      "stars_total": "16,500"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "992 stars today",
-      "stars_total": "63,679"
+      "stars_today": "978 stars today",
+      "stars_total": "63,999"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -32,55 +32,55 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "988 stars today",
-      "stars_total": "11,427"
+      "stars_total": "11,890"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "499 stars today",
-      "stars_total": "40,833"
+      "stars_today": "501 stars today",
+      "stars_total": "40,967"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "391 stars today",
-      "stars_total": "2,436"
+      "stars_today": "389 stars today",
+      "stars_total": "2,524"
     },
     {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "1,391 stars today",
-      "stars_total": "17,838"
+      "stars_today": "1,393 stars today",
+      "stars_total": "18,543"
     },
     {
       "name": "odoo/odoo",
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars_today": "48 stars today",
-      "stars_total": "50,987"
+      "stars_today": "79 stars today",
+      "stars_total": "51,122"
     },
     {
       "name": "byJoey/cfnew",
       "url": "https://github.com/byJoey/cfnew",
       "description": "",
       "language": "",
-      "stars_today": "85 stars today",
-      "stars_total": "13,242"
+      "stars_today": "87 stars today",
+      "stars_total": "13,295"
     },
     {
       "name": "trimstray/the-book-of-secret-knowledge",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": "",
-      "stars_today": "964 stars today",
-      "stars_total": "223,008"
+      "stars_today": "969 stars today",
+      "stars_total": "223,189"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "2,556 stars today",
-      "stars_total": "24,152"
+      "stars_today": "2,549 stars today",
+      "stars_total": "24,894"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "3,688 stars today",
-      "stars_total": "15,920"
+      "stars_today": "3,684 stars today",
+      "stars_total": "16,500"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -106,31 +106,31 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "988 stars today",
-      "stars_total": "11,427"
+      "stars_total": "11,890"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "499 stars today",
-      "stars_total": "40,833"
+      "stars_today": "501 stars today",
+      "stars_total": "40,967"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "391 stars today",
-      "stars_total": "2,436"
+      "stars_today": "389 stars today",
+      "stars_total": "2,524"
     },
     {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "1,391 stars today",
-      "stars_total": "17,838"
+      "stars_today": "1,393 stars today",
+      "stars_total": "18,543"
     }
   ],
   "posts": [
@@ -158,7 +158,7 @@
       "repo": "colbymchenry/codegraph",
       "cover_line1": "codegraph",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**colbymchenry/codegraph**\n\n📌 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local\n\n🔗 https://github.com/colbymchenry/codegraph\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**colbymchenry/codegraph**\n\n📌 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local\n\n🔗 https://github.com/colbymchenry/codegraph\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-22/trending/summary.png",
-    "assets/2026-05-22/trending/post1.png",
-    "assets/2026-05-22/trending/post2.png",
-    "assets/2026-05-22/trending/post3.png",
-    "assets/2026-05-22/trending/post4.png"
+    "assets/2026-05-23/trending/summary.png",
+    "assets/2026-05-23/trending/post1.png",
+    "assets/2026-05-23/trending/post2.png",
+    "assets/2026-05-23/trending/post3.png",
+    "assets/2026-05-23/trending/post4.png"
   ]
 }
