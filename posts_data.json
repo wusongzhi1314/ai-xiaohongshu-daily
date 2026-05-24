@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "posts": [
     {
-      "topic": "Italy moves to Airbu",
-      "cover_line1": "Italy move",
+      "topic": "DeepSeek reasonix, D",
+      "cover_line1": "DeepSeek r",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Italy moves to Airbus A330 tankers**\n\n📌 来源：HackerNews\n🔗 https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost**\n\n📌 来源：HackerNews\n🔗 https://esengine.github.io/DeepSeek-Reasonix/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Microsoft starts can",
-      "cover_line1": "Microsoft ",
+      "topic": "Memory has grown to ",
+      "cover_line1": "Memory has",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Microsoft starts canceling Claude Code licenses**\n\n📌 来源：HackerNews\n🔗 https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Memory has grown to nearly two-thirds of AI chip component costs**\n\n📌 来源：HackerNews\n🔗 https://epoch.ai/data-insights/ai-chip-component-cost-shares\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Alberta will vote on",
-      "cover_line1": "Alberta wi",
+      "topic": "Constraint Decay: Th",
+      "cover_line1": "Constraint",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Alberta will vote on whether to remain part of Canada. What now?**\n\n📌 来源：HackerNews\n🔗 https://www.bbc.com/news/articles/c809jg1gj9yo\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Constraint Decay: The Fragility of LLM Agents in Back End Code Generation**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2605.06445\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic blames dys",
-      "cover_line1": "Anthropic ",
+      "topic": "Flick (YC F25) Is Hi",
+      "cover_line1": "Flick (YC ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic blames dystopian sci-fi for training AI models to act \"evil\"**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-24/cover1.png",
-    "assets/2026-05-24/cover2.png",
-    "assets/2026-05-24/cover3.png",
-    "assets/2026-05-24/cover4.png"
+    "assets/2026-05-25/cover1.png",
+    "assets/2026-05-25/cover2.png",
+    "assets/2026-05-25/cover3.png",
+    "assets/2026-05-25/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-24/cover1_feishu.png",
-    "assets/2026-05-24/cover2_feishu.png",
-    "assets/2026-05-24/cover3_feishu.png",
-    "assets/2026-05-24/cover4_feishu.png"
+    "assets/2026-05-25/cover1_feishu.png",
+    "assets/2026-05-25/cover2_feishu.png",
+    "assets/2026-05-25/cover3_feishu.png",
+    "assets/2026-05-25/cover4_feishu.png"
   ]
 }
