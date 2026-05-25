@@ -1,86 +1,86 @@
 {
-  "date": "2026-05-24",
-  "slot": "晚报",
+  "date": "2026-05-25",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "3,987 stars today",
-      "stars_total": "24,152"
+      "stars_today": "3,999 stars today",
+      "stars_total": "25,671"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "1,836 stars today",
-      "stars_total": "14,890"
+      "stars_today": "1,853 stars today",
+      "stars_total": "15,896"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "1,179 stars today",
-      "stars_total": "27,065"
+      "stars_today": "1,173 stars today",
+      "stars_total": "27,221"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "486 stars today",
-      "stars_total": "13,411"
+      "stars_today": "550 stars today",
+      "stars_total": "14,017"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,555 stars today",
-      "stars_total": "151,141"
+      "stars_today": "2,551 stars today",
+      "stars_total": "152,000"
     },
     {
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "53,689"
+      "stars_today": "456 stars today",
+      "stars_total": "53,908"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_today": "565 stars today",
-      "stars_total": "28,891"
+      "stars_today": "553 stars today",
+      "stars_total": "29,142"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,993 stars today",
-      "stars_total": "21,180"
+      "stars_today": "3,003 stars today",
+      "stars_total": "21,897"
     },
     {
       "name": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "32,253"
+      "stars_today": "585 stars today",
+      "stars_total": "32,470"
     },
     {
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "25,700"
+      "stars_today": "106 stars today",
+      "stars_total": "25,783"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,72 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "3,987 stars today",
-      "stars_total": "24,152"
+      "stars_today": "3,999 stars today",
+      "stars_total": "25,671"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "1,836 stars today",
-      "stars_total": "14,890"
+      "stars_today": "1,853 stars today",
+      "stars_total": "15,896"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "1,179 stars today",
-      "stars_total": "27,065"
+      "stars_today": "1,173 stars today",
+      "stars_total": "27,221"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "486 stars today",
-      "stars_total": "13,411"
+      "stars_today": "550 stars today",
+      "stars_total": "14,017"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,555 stars today",
-      "stars_total": "151,141"
+      "stars_today": "2,551 stars today",
+      "stars_total": "152,000"
     },
     {
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "53,689"
+      "stars_today": "456 stars today",
+      "stars_total": "53,908"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_today": "565 stars today",
-      "stars_total": "28,891"
+      "stars_today": "553 stars today",
+      "stars_total": "29,142"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,993 stars today",
-      "stars_total": "21,180"
+      "stars_today": "3,003 stars today",
+      "stars_total": "21,897"
     },
     {
       "name": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "32,253"
+      "stars_today": "585 stars today",
+      "stars_total": "32,470"
     }
   ],
   "posts": [
@@ -236,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-24/trending/summary.png",
-    "assets/2026-05-24/trending/post1.png",
-    "assets/2026-05-24/trending/post2.png",
-    "assets/2026-05-24/trending/post3.png",
-    "assets/2026-05-24/trending/post4.png"
+    "assets/2026-05-25/trending/summary.png",
+    "assets/2026-05-25/trending/post1.png",
+    "assets/2026-05-25/trending/post2.png",
+    "assets/2026-05-25/trending/post3.png",
+    "assets/2026-05-25/trending/post4.png"
   ]
 }
