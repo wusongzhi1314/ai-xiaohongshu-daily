@@ -1,19 +1,16 @@
 name: 📱 AI 日报
 
-on:
-  schedule:
-    # 每天北京时间 08:00 触发（提前至 UTC 23:00 以抵消 Actions 调度延迟 + 执行耗时）
-    - cron: "0 23 * * *"
-  workflow_dispatch:
+于:
+   workflow_dispatch:
     inputs:
       phase:
         description: "执行阶段 (generate / issue / notify / all)"
         required: false
-        default: "all"
+        默认: "all"
 
 permissions:
   contents: write   # 提交封面图到仓库
-  issues: write     # 创建 GitHub Issue
+  议题: write     # 创建 GitHub Issue
 
 jobs:
   daily-post:
