@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "posts": [
     {
-      "topic": "Norway's 2 petabytes",
-      "cover_line1": "Norway's 2",
+      "topic": "Spain blocks predict",
+      "cover_line1": "Spain bloc",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Norway's 2 petabytes of Huawei flash storage and LLM training**\n\n📌 来源：HackerNews\n🔗 https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Weave (YC W25) is hi",
-      "cover_line1": "Weave (YC ",
+      "topic": "Liverpool and Manche",
+      "cover_line1": "Liverpool ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Weave (YC W25) is hiring ML, AI, product, & design engineers**\n\n📌 来源：HackerNews\n🔗 https://jobs.ashbyhq.com/workweave\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Liverpool and Manchester Railway**\n\n📌 来源：HackerNews\n🔗 https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Everyone Against Us ",
-      "cover_line1": "Everyone A",
+      "topic": "Outsourcing plus loc",
+      "cover_line1": "Outsourcin",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Everyone Against Us (2023)**\n\n📌 来源：HackerNews\n🔗 https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Outsourcing plus local AI will soon become more economical vs. frontier labs**\n\n📌 来源：HackerNews\n🔗 https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Netherlands Seizes 8",
-      "cover_line1": "Netherland",
+      "topic": "Use boring languages",
+      "cover_line1": "Use boring",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks**\n\n📌 来源：HackerNews\n🔗 https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Use boring languages with LLMs**\n\n📌 来源：HackerNews\n🔗 https://jry.io/writing/use-boring-languages-with-llms/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-05-26/cover1.png",
-    "assets/2026-05-26/cover2.png",
-    "assets/2026-05-26/cover3.png",
-    "assets/2026-05-26/cover4.png"
+    "assets/2026-05-27/cover1.png",
+    "assets/2026-05-27/cover2.png",
+    "assets/2026-05-27/cover3.png",
+    "assets/2026-05-27/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-26/cover1_feishu.png",
-    "assets/2026-05-26/cover2_feishu.png",
-    "assets/2026-05-26/cover3_feishu.png",
-    "assets/2026-05-26/cover4_feishu.png"
+    "assets/2026-05-27/cover1_feishu.png",
+    "assets/2026-05-27/cover2_feishu.png",
+    "assets/2026-05-27/cover3_feishu.png",
+    "assets/2026-05-27/cover4_feishu.png"
   ]
 }
