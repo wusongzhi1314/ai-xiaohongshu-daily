@@ -1,25 +1,20 @@
 name: 🔥 GitHub Trending AI 追踪
 
-on:
-  schedule:
-    # 北京时间 08:00 触发（提前至 UTC 23:00 以抵消 Actions 调度延迟 + 执行耗时）
-    - cron: "0 23 * * *"
-    # 北京时间 21:00 (UTC 13:00) — 晚报
-    - cron: "0 13 * * *"
+于:
   workflow_dispatch:
     inputs:
       since:
         description: "榜单周期 (daily / weekly / monthly)"
         required: false
-        default: "daily"
+        默认: "daily"
       max_posts:
         description: "最多生成帖子数 (默认 4)"
         required: false
-        default: "4"
+        默认: "4"
 
 permissions:
   contents: write   # 保存中间数据
-  issues: write     # 创建 Issue
+  议题: write     # 创建 Issue
 
 jobs:
   trending-issue:
