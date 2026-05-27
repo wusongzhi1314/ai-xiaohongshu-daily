@@ -1,25 +1,20 @@
 name: 📰 HN & a16z 日报
 
-on:
-  schedule:
-    # 北京时间 09:00（UTC 01:00）— 早上推送
-    - cron: "0 1 * * *"
-    # 北京时间 21:00（UTC 13:00）— 晚上推送（可选，删除此行则只推早报）
-    # - cron: "0 13 * * *"
-  workflow_dispatch:
+于:
+   workflow_dispatch:
     inputs:
       hn:
         description: "HackerNews 条数（默认5）"
         required: false
-        default: "5"
+        默认: "5"
       a16z:
         description: "a16z 条数（默认5）"
         required: false
-        default: "5"
+        默认: "5"
       no_card:
         description: "跳过卡片图片（true/false）"
         required: false
-        default: "false"
+        默认: "false"
 
 permissions:
   contents: write   # 提交卡片图片
